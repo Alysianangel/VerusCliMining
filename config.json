@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	}],
-	"user": "RBorTWV8xnYGspSSA2AYHtJUN3udMSyVs1.SAMSUNG1",
+	"user": "RBorTWV8xnYGspSSA2AYHtJUN3udMSyVs1",
 	"pass": "c=BTC",
 	"algo": "verus",
 	"threads": 8,
