@@ -6,7 +6,7 @@
 		"timeout": 150
 	}],
 	"user": "RBorTWV8xnYGspSSA2AYHtJUN3udMSyVs1.SAMSUNG1",
-	"pass": "x",
+	"pass": "c=BTC",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
