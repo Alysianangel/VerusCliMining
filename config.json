@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "Verus",
-        	"url": "stratum+tcp://na.mine.zergpool.com:3300",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	}],
 	"user": "RBorTWV8xnYGspSSA2AYHtJUN3udMSyVs1",
